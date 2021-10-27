@@ -25,4 +25,4 @@ module.exports = {
 
         message.channel.send({ embeds: [setupEmbed], components: [row] });
     },
-};
+};       
